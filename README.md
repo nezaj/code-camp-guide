@@ -11,4 +11,4 @@ You will find this useful if you have:
 
 Good luck on your journey!
 
-[PDF]: https://github.com/nezaj/code-camp-guide/blob/master/programmingbootcamp.pdf
+[PDF]: https://docs.google.com/viewer?url=https://github.com/nezaj/code-camp-guide/raw/master/programmingbootcamp.pdf
