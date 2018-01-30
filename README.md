@@ -1,4 +1,6 @@
 # How To Get Into A Programming Bootcamp (2015)
+[Read PDF][PDF]
+
 I attended a bootcamp in 2013 to switch careers into tech. I started working as an API engineer for a startup two months after graduating. Since then I've gone on to work at Facebook. I wrote this guide for people who are exploring and/or seriously considering attending a programming bootcamp.
 
 You will find this useful if you have:
@@ -8,3 +10,5 @@ You will find this useful if you have:
 * Been accepted to bootcamp but want tips for ensuring success.
 
 Good luck on your journey!
+
+[PDF]: https://github.com/nezaj/code-camp-guide/blob/master/programmingbootcamp.pdf
